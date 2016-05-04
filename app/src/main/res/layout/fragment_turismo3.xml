@@ -1,0 +1,38 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Turismo3Fragment">
+
+    <LinearLayout
+        style="@style/linearLayoutStyle">
+        <TextView
+            style="@style/textViewStyle.Title"
+            android:text="@string/tab_tur3"/>
+        <ImageView
+            style="@style/imgeViewStyle"
+            android:src="@drawable/turismo3"
+            android:layout_width="350dp"
+            android:layout_height="270dp"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/vermapa"
+            android:textColor="@color/white"
+            android:background="@color/wallet_dim_foreground_inverse_holo_dark"
+            android:id="@+id/bmapcatedral"/>
+            <TextView
+                style="@style/textViewStyle.Content"
+                android:text="@string/desturismo3"/>
+        </LinearLayout>
+
+
+</FrameLayout>
+</ScrollView>

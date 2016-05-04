@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- indica que solo se puede seleccionar una opcion al tiempo -->
+
+        <item
+            android:id="@+id/menu_seccion_1"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/seccion_1"/>
+        <item
+            android:id="@+id/menu_seccion_2"
+            android:icon="@drawable/ic_store_mall_directory_black_24dp"
+            android:title="@string/seccion_2"/>
+        <item
+            android:id="@+id/menu_seccion_3"
+            android:icon="@drawable/ic_satellite_black_24dp"
+            android:title="@string/seccion_3"/>
+
+
+    <item
+        android:id="@+id/navigation_subheader"
+        android:title="@string/otras_opciones">
+        <menu>
+            <item
+                android:id="@+id/menu_opcion_1"
+                android:icon="@drawable/ic_local_bar_black_24dp"
+                android:title="@string/opcion_1"/>
+            <item
+                android:id="@+id/menu_opcion_2"
+                android:icon="@drawable/ic_menu"
+                android:title="@string/opcion_2"/>
+        </menu>
+    </item>
+    <!-- esto es para una prueba -->
+
+    <!-- esto es para una prueba -->
+</menu>

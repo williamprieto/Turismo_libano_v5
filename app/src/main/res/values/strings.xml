@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Turismo V5</string>
+    <string name="titulo">Líbano Tolima</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bandera">Bandera</string>
+    <string name="alcalde">Alcalde</string>
+    <string name="Eventoshistoricos">Eventos historicos</string>
+    <string name="Altitud">Altitud</string>
+    <string name="Distancia">Distancia</string>
+    <string name="Población">Población (2015)</string>
+    <string name="Superficie">Superficie</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="seccion_1">Inicio</string>
+    <string name="seccion_2">Hoteles</string>
+    <string name="seccion_3">Sitios Turisticos</string>
+    <string name="otras_opciones">Otras opciones</string>
+    <string name="opcion_1">Bares</string>
+    <string name="opcion_2">Demografia</string>
+    <string name="usuario">Turismo Líbano</string>
+    <string name="menu_abierto">Menu Abierto</string>
+    <string name="menu_cerrado">Menu Cerrado</string>
+    <string name="fragment1">Fragment 1</string>
+    <string name="fragment2">Fragment 2</string>
+    <string name="fragment3">Fragment 3</string>
+    <string name="vermapa">Ver mapa</string>
+    <string name="introduccion">Fundada el 23 de abril de 1849 por el fundador Isidro Parra.
+        Posee una Temperatura media de 20º C. </string>
+    <string name="introduccion2"> Límita por el norte: con los municipios de villahermosa y Armero
+        occidente: con el municipio de murillo,oriente: con los municipios de lérida y santa isabel,
+        sur: con el municipio de santa isabel </string>
+    <string name="introduccion3">El gentilicio es Libanense</string>
+    <string name="Datosg">Datos Generales</string>
+
+    <string name="demog">Información demográfica</string>
+
+    <string name="tab_hotel1">PANTAGORA</string>
+    <string name="tab_hotel3">CONTINENTAL</string>
+    <string name="tab_hotel2">CALLE REAL</string>
+
+     <string name="deshotel1">Pantagora Hotel se encuentra ubicado a tan sólo 5 minutos del
+       parque principal y de nuestra hermosa catedral, gracias a ella nuestro municipio
+       es conocido como "La Ciudad de Torres Blancas".
+       Las habitaciones presentan una decoración moderna y sencilla.
+       Todas incluyen Tv por cable, baño privado con kit de aseo, minibar y wifi, ademas posee piscina al aire libre,
+       Sala de eventos, Room Service, Parqueadero privado, gimnasio y sauna.
+       DIRECCION: Calle 4 No. 2-159 Av. Fundadores.
+       TIPO DE HABITACION: ESTÁNDAR $116.000 y SUITE $166.000.TEL Recepción: 3138442772 - 3138452530
+       y correo  pantagorahotel@hotmail.com</string>
+
+    <string name="deshotel2">Las habitaciones son confortables.
+       Todas incluyen Tv por cable, baño privado con kit de aseo y wifi.
+       DIRECCION: Calle 4 No. 11-64 a una cuadra del parque central
+       TIPO DE HABITACION: ESTÁNDAR $77.000 y SUITE $120.000.TEL Recepción: 3102237164 - 3152239572
+       y correo hotelcallerealdellibano@gmail.com</string>
+
+    <string name="deshotel3">Las habitaciones son confortables.
+       Todas incluyen Tv , baño privado con kit de aseo .
+       DIRECCION: Calle 3 No. 8-38 a una cuadra del parque central
+       TIPO DE HABITACION: ESTÁNDAR $55.000 y SUITE $105.000.TEL Recepción: 310624033 - 3153454213
+       </string>
+
+    <string name="tab_turismo1">NEVADO DEL RUIZ</string>
+    <string name="tab_tur2">FINCA CAMPESTRE</string>
+    <string name="tab_tur3">CATEDRAL</string>
+
+     <string name="desturismo1">El Parque Nacional Natural Los Nevados fue creado por el
+        estado Colombiano el 30 de abril de 1974, con el fin de contribuir con la conservación
+        de ecosistemas muy importantes a nivel mundial como: 3 de los glaciares que quedan para
+        el país (Nevados del Ruiz, Nevado del Santa Isabel y Nevado del Tolima), ecosistema de
+        súper-paramo, paramo, humedales alto andinos, bosques alto andinos y andinos</string>
+
+    <string name="desturismo2">Una encantadora experiencia...
+        Nuestras confortables fincas turisticas y campestres le ofrecen a nuestros visitantes la comodidad,
+        tranquilidad y esparcimiento en ambientes naturales, brindándoles un optimo servicio
+        en la organización de eventos sociales , familiares y empresariales
+        Reservas al 313 844 2772 - 313 845 2530 - 313 843 2390 - 256 1208</string>
+
+    <string name="desturismo3">En el Año de 1.970 con la colaboración de todos los vecinos se construyó
+        una Capilla cuyo primer Sacerdote fue el Padre Medina, aunque ya en los días de la fundación
+        el Padre Agustín Reyes había oficiado una Misa teniendo como Altar el tronco de un cedro recién cortado
+        La patrona y titular de esta Parroquia es Nuestra Señora del Carmen y la fiesta en su honor
+        que se celebra cada año es siempre motivo de encuentro fraternal de toda la ciudad y de cada vereda del Líbano".
+       </string>
+
+    <string name="tab_bar1">NEGRA TOMASA</string>
+    <string name="tab_bar2">PENT HOUSE</string>
+    <string name="tab_bar3">PALO DE ANGEL</string>
+
+     <string name="desbares1">Entrada: no hay conver los jueves; viernes y sábado entre 5.000 y 7.000 pesos (mujeres entran gratis entre las 9pm y 11pm)
+- Bebidas: desde 3.000 por una cerveza- Comida: nop, ¡solo palomitas!- Abierto: de jueves a sábado, de 9pm a 3am- Dirección: parque central </string>
+
+    <string name="desbares2">- Cover: jueves, hombres 10.000 pesos y mujeres 5.000 pesos con barra libre (ceveza, licor y algunos cocteles) hasta las 2a.m.
+- Bebidas: ¡solo vaya un jueves y tome gratis!- Comida: no
+- Abierto: de 9:30p.m. a 4a.m. pero espere hasta las 11p.m. a último momento)
+- Dirección: parque central</string>
+
+    <string name="desbares3"> (ceveza, licor y algunos cocteles) hasta las 2a.m.
+- Abierto: de 9:30p.m. a 4a.m. pero espere hasta las 11p.m. a último momento)
+- Dirección: parque central
+       </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

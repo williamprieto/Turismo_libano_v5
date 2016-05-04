@@ -1,0 +1,37 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Turismo2Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        style="@style/linearLayoutStyle">
+        <TextView
+           style="@style/textViewStyle.Title"
+            android:text="@string/tab_tur2"/>
+        <ImageView
+            style="@style/imgeViewStyle"
+            android:src="@drawable/turismo2"
+            android:layout_width="350dp"
+            android:layout_height="270dp"
+        />
+        <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+            android:text="@string/vermapa"
+            android:textColor="@color/white"
+            android:background="@color/wallet_dim_foreground_inverse_holo_dark"
+        android:id="@+id/bmapfinca"/>
+        <TextView
+            style="@style/textViewStyle.Content"
+            android:text="@string/desturismo2"/>
+       </LinearLayout>
+</FrameLayout>
+</ScrollView>

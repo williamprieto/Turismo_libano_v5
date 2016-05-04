@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Turismo V5</string>
+    <string name="titulo">Líbano Tolima</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="seccion_1">start</string>
+    <string name="bandera">Flag</string>
+    <string name="otras_opciones">Other options</string>
+    <string name="alcalde">Mayor</string>
+    <string name="vermapa">View map</string>
+    <string name="Eventoshistoricos">Historical events</string>
+    <string name="Superficie">Surface</string>
+    <string name="Altitud">Altitude</string>
+    <string name="Distancia">Distance</string>
+    <string name="Población">population (2015)</string>
+
+
+    <string name="usuario">Tourism Líbano</string>
+    <string name="menu_abierto">Menu Abierto</string>
+    <string name="menu_cerrado">Menu Cerrado</string>
+    <string name="fragment1">Fragment 1</string>
+    <string name="fragment2">Fragment 2</string>
+    <string name="fragment3">Fragment 3</string>
+
+
+    <string name="introduccion">Founded on April 23, 1849 by the founder Isidro Parra. It has an average temperature of 20 ° C. </string>
+    <string name="introduccion2">Bounded on the north: with the municipalities of  villahermosa y Armero
+        West: with the municipality of murillo,East: with the municipalities of  lérida y santa isabel,
+         South: with the municipality of santa isabel </string>
+    <string name="introduccion3">The gentile is Libanense</string>
+    <string name="Datosg">General data</string>
+    <string name="seccion_2">HOTELS</string>
+
+    <string name="opcion_1">BARS</string>
+    <string name="seccion_3">TOURISM</string>
+    <string name="opcion_2">DEMOGRAPHY</string>
+
+
+    <string name="tab_hotel1">PANTAGORA</string>
+    <string name="tab_hotel2">CONTINENTAL</string>
+    <string name="tab_hotel3">CALLE REAL</string>
+
+    <string name="demog">Information demography</string>
+
+    <string name="deshotel1">Pantagora Hotel is located just 5 minutes from the main park and our beautiful
+        cathedral, thanks to her our town is known as "The City of Torres Blancas".
+        The rooms feature modern décor and sencilla.Todas include cable TV, private bathroom with toiletries kit,
+        minibar and wifi, also has an outdoor pool, function room, Room Service, Private parking, gym and sauna.
+        ADDRESS: Calle 4 No. 2-159 Av Fundadores.
+        ROOM TYPE: STANDARD SUITE $ 116,000 and $ 166.000.TEL Reception:3138442772 - 3138452530
+       and email  pantagorahotel@hotmail.com</string>
+
+    <string name="deshotel2">The rooms are comfortable rooms.All include cable TV, private bathroom with toiletry kit and wifi.
+         ADDRESS: Calle 4 No. 11-64 one block from Central Park
+        ROOM TYPE: STANDARD SUITE $ 77,000 and $ 120.000.TEL Reception:
+        and email  hotelcallerealdellibano@gmail.com</string>
+
+    <string name="deshotel3">
+        The rooms are comfortable rooms.All include TV, private bathroom with toiletry kit.
+        ADDRESS: Calle 3 No. 8-38 just one block from Central Park
+        ROOM TYPE: STANDARD SUITE $ 55,000 and $ 105.000.TEL Reception: 310624033-3153454213
+       </string>
+
+    <string name="tab_turismo1">NEVADO DEL RUIZ</string>
+    <string name="tab_tur2">FINCA CAMPESTRE</string>
+    <string name="tab_tur3">CATEDRAL</string>
+
+    <string name="desturismo1">The Los Nevados National Natural Park was created by the Colombian
+        state on April 30, 1974, in order to contribute to the conservation of important ecosystems
+        globally and 3 glaciers left for the country (Nevados del Ruiz, Nevado Santa Isabel and Nevado del Tolima),
+        ecosystem super-paramo, paramo, high Andean wetlands, high Andean forest and Andean</string>
+
+    <string name="desturismo2">A lovely experience ... Our comfortable tourist farms and countryside offer our visitors
+        the comfort, tranquility and relaxation in natural environments, providing an optimal service in organizing social events,
+        family and business Reservations at 313 844 2772 - 313 845 2530 - 313 843 2390 - 256 1208</string>
+
+    <string name="desturismo3">In the year 1,970 with the cooperation of all residents a chapel whose first priest was
+        Father Medina was built, although in the days of the founding Father Agustin Reyes had officiated a Mass
+        having as Altar the trunk of a cedar freshly cut the landlady and owner of this parish is Our Lady of Carmen
+        and the party in his honor is held every year is always cause for fraternal meeting of the entire city and every
+        village in  Líbano ".".
+       </string>
+
+    <string name="tab_bar1">NEGRA TOMASA</string>
+    <string name="tab_bar2">PENT HOUSE</string>
+    <string name="tab_bar3">PALO DE ANGEL</string>
+
+      <string name="desbares1">Admission: no cover on Thursdays; Friday and Saturday between 5,000 and 7,000 pesos
+          (women are free between 9pm and 11pm) - Drinks: from 3000 for a beer Food: nop ONLY popcorn
+          - Open: Thursday to Saturday from 9pm to 3 am- Address: Central Park. </string>
+
+    <string name="desbares2">- Cover Thursday, 10,000 men and women pesos to 5,000 pesos with open bar
+        (ceveza, liquor and some cocktails) until 2 a.m. Beverage: go and take only a Thursday free
+        - Food: non Open: 9: 30p.m. to 4a.m. but wait until 11 pm at the last minute) - Address: Central Park
+</string>
+
+    <string name="desbares3">(ceveza, liquor and some cocktails) until 2 a.m. Open: 9:30 p.m. to 4a.m.
+        but wait until 11 pm at the last minute) - Address: Central Park
+       </string>
+
+
+</resources>
